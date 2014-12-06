@@ -11,6 +11,10 @@ With npm: (currently not deployed)
 
 Commands
 -------
-Generate component
+Generate component boilerplate
 
-    $ rock -mc mycompoonentname
+    $ rock -mc mycomponentname
+        /stores
+        /actions
+        /components
+        /constants
