@@ -10,9 +10,7 @@ With npm: (currently not deployed)
 </ul>
 
 ### Commands
-```js
-	Generate component
+Generate component
 	$ rock -mc mycompoonentname
-});
-```
+
 
