@@ -9,8 +9,7 @@ With npm: (currently not deployed)
 
 </ul>
 
-### Commands
+Commands
+-------
 Generate component
 	$ rock -mc mycompoonentname
-
-
