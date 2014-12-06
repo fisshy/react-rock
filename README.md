@@ -1,6 +1,8 @@
 React Rock
 =================
 
+Some easy to use tools to generate boilerplates ( work in progress )
+
 Install
 -------
 With npm: (currently not deployed)
@@ -16,7 +18,7 @@ Generate component boilerplate
     $ rock -mc <component>
     
     Generates
-    /componentname
+    /component
         /actions
             component.js
         /components
