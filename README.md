@@ -12,4 +12,5 @@ With npm: (currently not deployed)
 Commands
 -------
 Generate component
-	$ rock -mc mycompoonentname
+
+    $ rock -mc mycompoonentname
