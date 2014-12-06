@@ -7,7 +7,7 @@ Install
 -------
 With npm: (currently not deployed)
 
-    $ npm install https://github.com/fisshy/react-rock.git
+    $ npm install git+https://github.com/fisshy/react-rock.git
 
 </ul>
 
