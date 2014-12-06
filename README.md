@@ -13,11 +13,15 @@ Commands
 -------
 Generate component boilerplate
 
-    $ rock -mc componentname
+    $ rock -mc <component>
     
-Generates
-/componentname
-    /actions
-    /components
-    /constants
-    /store
+    Generates
+    /componentname
+        /actions
+            component.js
+        /components
+            component.jsx
+        /constants
+            component.js
+        /store
+            component.js
