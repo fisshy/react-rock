@@ -14,8 +14,10 @@ Commands
 Generate component boilerplate
 
     $ rock -mc componentname
-    /componentname
-        /actions
-        /components
-        /constants
-        /store
+    
+Generates
+/componentname
+    /actions
+    /components
+    /constants
+    /store
