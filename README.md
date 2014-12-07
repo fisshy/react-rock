@@ -15,7 +15,7 @@ Commands
 -------
 Generate component boilerplate
 
-    $ rock -mc <component>
+    $ rock mc <component>
     
     Generates
     /component
